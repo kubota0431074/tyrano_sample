@@ -1,13 +1,13 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="走るか寝るかするメロン"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「走るか寝るかするメロン」[l][r]
 
-メロスは激怒した。[l][r]
+メロンは激怒した。[l][r]
 
 必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
 
